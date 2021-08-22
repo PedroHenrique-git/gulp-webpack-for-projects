@@ -2,7 +2,7 @@
 
 initial setup for gulp and webpack for front end projects
 
-###Dependencies:
+Dependencies:
 
 @babel/core <br />
 @babel/preset-env <br />
