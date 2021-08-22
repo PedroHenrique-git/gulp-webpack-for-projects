@@ -2,14 +2,14 @@
 
 initial setup for gulp and webpack for front end projects
 
-dependencies:
+###Dependencies:
 
-@babel/core,
-@babel/preset-env
-babel-loader
-browser-sync
-gulp
-gulp-sass
-node-sass
-webpack
+@babel/core <br />
+@babel/preset-env <br />
+babel-loader <br />
+browser-sync <br />
+gulp <br />
+gulp-sass <br />
+node-sass <br />
+webpack <br />
 webpack-stream
